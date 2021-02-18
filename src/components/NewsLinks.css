@@ -1,0 +1,7 @@
+.news-links {
+    display: flex;
+    flex-flow: column nowrap;
+}
+.news-string {
+    display: flex;
+}

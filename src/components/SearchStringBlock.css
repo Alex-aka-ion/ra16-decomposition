@@ -1,0 +1,9 @@
+.search-all-flex {
+    display: flex;
+    flex-flow: row nowrap;
+}
+.search-flex{
+    display: flex;
+    flex-flow: column nowrap;
+    text-align: left;
+}

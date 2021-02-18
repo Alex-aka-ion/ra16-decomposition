@@ -1,0 +1,5 @@
+.tvProgram {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: flex-start;
+}

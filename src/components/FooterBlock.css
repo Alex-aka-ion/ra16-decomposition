@@ -1,0 +1,4 @@
+.footer-main-flex {
+    display: flex;
+    flex-flow: row nowrap;
+}

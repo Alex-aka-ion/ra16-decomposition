@@ -1,0 +1,8 @@
+.currency-block {
+    display: flex;
+    flex-flow: row nowrap;
+}
+.currency-text {
+    display: flex;
+    flex-flow: row nowrap;
+}
